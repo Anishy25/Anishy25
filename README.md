@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftauqira&psig=AOvVaw2uvs--UVyOvU_XQgtalp5K&ust=1683880599355000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDM2Jnu7P4CFQAAAAAdAAAAABAW)]
+![MasterHead](https://media.licdn.com/dms/image/C4D16AQHAIOsIrJconQ/profile-displaybackgroundimage-shrink_200_800/0/1517245986694?e=2147483647&v=beta&t=Iyz1qk6x_TUlBN4lkZLXqRfGPeOPKBqE5KU4nuQv6qA)
 <h1 align="center">Hi 👋, I'm Anish Yadav.</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishy25&label=Profile%20views&color=0e75b6&style=flat" alt="anishy25" /> </p>
 
